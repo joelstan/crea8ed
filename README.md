@@ -1,2 +1,4 @@
-# crea8ed
-for all my codes from now on
+plate-box
+=========
+
+HTML5 boiler plat with bootstrap support and fontawesome support... Included semantic HTML :P
